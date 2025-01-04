@@ -9,7 +9,7 @@ public class Windowactions {
 		a.manage().window().maximize(); 
 		a.get("https://google.com");
 		a.navigate().to("https://rahulshettyacademy.com/AutomationPractice/");
-		a.navigate().back();
+		//a.navigate().back();
 		a.navigate().forward();
 	}
 
