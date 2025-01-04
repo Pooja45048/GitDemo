@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/pooja.shivalingappa/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar" sourcepath="C:/Users/pooja.shivalingappa/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="dev.failsafe"/>
+			<attribute name="maven.artifactId" value="failsafe"/>
+			<attribute name="maven.version" value="3.3.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/pooja.shivalingappa/Downloads/testng-6.7.jar" sourcepath="C:/Users/pooja.shivalingappa/.m2/repository/org/testng/testng/7.10.2/testng-7.10.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.testng"/>
+			<attribute name="maven.artifactId" value="testng"/>
+			<attribute name="maven.version" value="7.10.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/pooja.shivalingappa/.m2/repository/com/aventstack/extentreports/5.1.2/extentreports-5.1.2.jar" sourcepath="C:/Users/pooja.shivalingappa/.m2/repository/com/aventstack/extentreports/5.1.2/extentreports-5.1.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.aventstack"/>
+			<attribute name="maven.artifactId" value="extentreports"/>
+			<attribute name="maven.version" value="5.1.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/pooja.shivalingappa/.p2/pool/plugins/org.testng_7.10.1.r202404130807.jar" sourcepath="C:/Users/pooja.shivalingappa/.p2/pool/plugins/org.testng.source_7.10.1.r202404130807.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pooja.shivalingappa/.m2/repository/org/testng/testng/7.10.2/testng-7.10.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/pooja.shivalingappa/.m2/repository/org/testng/testng/7.10.2/testng-7.10.2-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.testng"/>
+			<attribute name="maven.artifactId" value="testng"/>
+			<attribute name="maven.version" value="7.10.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
